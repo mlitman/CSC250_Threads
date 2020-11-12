@@ -5,6 +5,7 @@ public class WorkerBee extends Thread
 	
 	public WorkerBee(String name)
 	{
+		int b = 5;
 		this.name = name;
 	}
 	
